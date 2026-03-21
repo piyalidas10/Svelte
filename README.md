@@ -3,18 +3,28 @@ Build high-performance web applications with SvelteJS - a lightweight JavaScript
 
 [https://svelte.dev/docs/svelte/overview]
 
-
 ## What is **Svelte?
 
-Svelte is a modern JavaScript framework used to build fast web applications—but unlike traditional frameworks, it’s actually a compiler.
+It used to build fast web applications—but unlike traditional frameworks, it’s actually a compiler.
+
+Svelte is a modern JavaScript framework for building user interfaces on the web. It uses a compiler to turn declarative components written in HTML, CSS and JavaScript.
 
 Instead of shipping a large runtime library to the browser (like Angular or React), Svelte:
-
-Compiles your code at build time
-Converts components into highly optimized vanilla JavaScript
-Eliminates framework overhead in production
+- Compiles your code at build time
+- Converts components into highly optimized vanilla JavaScript
+- Eliminates framework overhead in production
 
 **👉 Result: smaller bundle size + faster performance**
+
+## What is SvelteKit ?
+SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. If you're coming from React, SvelteKit is similar to Next. If you're coming from Vue, SvelteKit is similar to Nuxt.
+
+https://svelte.dev/docs/kit/introduction
+
+## Tutorials
+1. https://www.youtube.com/watch?v=vkXxFfGwPao
+2. 
+
 
 ## 🔥 Key Difference: Svelte vs Angular vs React
 

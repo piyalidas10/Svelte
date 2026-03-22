@@ -315,6 +315,18 @@ They use:
 - Big companies do use it, but:
   - 👉 mostly partial adoption, not full replacement
 
+## 🔥 Why companies choose Svelte in these cases
+**1. ⚡ Performance**
+- No virtual DOM
+- Compiled output → super fast
+
+**2. 📦 Small bundle size**  
+Ideal for:
+- News sites
+- Marketing pages
+
+**3. 🧑‍💻 Developer productivity**
+- Less code than React/Angular
 
 ## 🔥 Key Difference: Svelte vs Angular vs React
 
